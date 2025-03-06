@@ -1,1 +1,12 @@
-call centre analysi
+This repository focuses on analyzing call centre data using Microsoft Excel to improve operational efficiency, agent productivity, and customer satisfaction.
+
+🔍 Key Features:
+Data Cleaning & Preparation – Handling missing values, duplicates, and formatting.
+KPI Analysis – Tracking AHT, FCR, Call Abandonment Rate, and CSAT.
+Trend Analysis – Identifying peak call times and seasonal patterns.
+Agent Performance Evaluation – Measuring response time and resolution rates.
+Pivot Tables & Dashboards – Visualizing key metrics for decision-making.
+📁 Dataset Overview
+The dataset includes fields like Call ID, Agent ID, Call Duration, Customer Rating, Issue Type, and Resolution Time, enabling data-driven insights.
+
+This project helps call centres optimize processes, enhance customer experience, and boost productivity using Excel. 🚀
